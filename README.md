@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+There+👋;I'm+Willy;Fullstack+Developer;Always+Learning+New+Things;Building+Modern+Projects">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+Guys+👋;I'm+Willy;Fullstack+Developer;Always+Learning+New+Things;Building+Modern+Projects">
 
 <br><br>
 
@@ -60,11 +60,17 @@ Goal :
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WillyIskandar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Willy-Dc&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-Dc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000">
 
 <br><br>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=WillyIskandar&theme=tokyonight&no-frame=true&row=1&column=6">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Willy-Dc&bg_color=0f0f0f&color=c084fc&line=a855f7&point=ffffff&hide_border=true">
+
+<br><br>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Willy-Dc&theme=algolia&no-frame=true&row=1&column=6">
 
 </div>
 
