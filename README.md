@@ -59,13 +59,7 @@ Goal :
 # 📊 Github Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Willy-Dc&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willy-Dc&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000">
-
-<br><br>
-
+  
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Willy-Dc&bg_color=0f0f0f&color=c084fc&line=a855f7&point=ffffff&hide_border=true">
 
 <br><br>
