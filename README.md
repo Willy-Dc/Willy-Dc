@@ -27,10 +27,10 @@
 <td width="60%">
 
 ```yaml
-Name: Willy Iskandar
-Role: Informatics Student
+Name    : Willy Iskandar
+Role    : Informatics Student
 Location: Indonesia
-Focus:
+Focus   :
   - Web Development
   - Backend Development
   - UI/UX Design
@@ -40,7 +40,7 @@ Currently Learning:
   - Databases
   - Modern Web Technologies
 
-Goal:
+Goal :
   Build clean and useful digital products.
 ```
 
@@ -59,12 +59,6 @@ Goal:
 # 📊 Github Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=WillyIskandar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillyIskandar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-<br><br>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WillyIskandar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true">
 
