@@ -64,7 +64,7 @@ Goal :
 
 <br><br>
 
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Willy-Dc&theme=algolia&no-frame=true&row=1&column=6">
+<img src="https://github-profile-trophy.vercel.app/?username=Willy-Dc&theme=tokyonight&no-frame=true&row=1&column=6">
 
 </div>
 
