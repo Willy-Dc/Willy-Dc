@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,vscode,mysql,git,github&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,bootstrap,tailwind,vscode,mysql,react,git,github&theme=dark">
 
 <br><br>
 
@@ -63,9 +63,6 @@ Goal :
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Willy-Dc&bg_color=0f0f0f&color=c084fc&line=a855f7&point=ffffff&hide_border=true">
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Willy-Dc&theme=tokyonight&no-frame=true&row=1&column=6">
-
 </div>
 
 ---
