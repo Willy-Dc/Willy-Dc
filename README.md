@@ -73,11 +73,10 @@ Goal :
 
 ```txt
 ✔ Building modern projects
-✔ Learning every day
+✔ Learning every day        
 ✔ Improving programming skills
 ✔ Turning ideas into reality
 ```
-
 </div>
 
 ---
